@@ -1,1 +1,1 @@
-A Cloud-based SAAS solution for businesses.
+Connecting Brands to Places Nationwide.
