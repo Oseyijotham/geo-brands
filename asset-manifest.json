@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/geo-brands/static/css/main.77847ef5.css",
-    "main.js": "/geo-brands/static/js/main.74dbfbb8.js",
+    "main.js": "/geo-brands/static/js/main.155fb265.js",
     "static/css/527.13f1012d.chunk.css": "/geo-brands/static/css/527.13f1012d.chunk.css",
     "static/js/527.60142d85.chunk.js": "/geo-brands/static/js/527.60142d85.chunk.js",
     "static/css/61.cc6409a2.chunk.css": "/geo-brands/static/css/61.cc6409a2.chunk.css",
@@ -17,7 +17,7 @@
     "static/css/607.df8fcee5.chunk.css": "/geo-brands/static/css/607.df8fcee5.chunk.css",
     "static/js/607.4b5b7f10.chunk.js": "/geo-brands/static/js/607.4b5b7f10.chunk.js",
     "static/css/716.3b98cdde.chunk.css": "/geo-brands/static/css/716.3b98cdde.chunk.css",
-    "static/js/716.56fd83b1.chunk.js": "/geo-brands/static/js/716.56fd83b1.chunk.js",
+    "static/js/716.af6d3367.chunk.js": "/geo-brands/static/js/716.af6d3367.chunk.js",
     "static/css/864.4f0ad3fe.chunk.css": "/geo-brands/static/css/864.4f0ad3fe.chunk.css",
     "static/js/864.5722fb4b.chunk.js": "/geo-brands/static/js/864.5722fb4b.chunk.js",
     "static/css/420.fa4fe976.chunk.css": "/geo-brands/static/css/420.fa4fe976.chunk.css",
@@ -40,7 +40,7 @@
     "index.html": "/geo-brands/index.html",
     "static/media/list2.svg": "/geo-brands/static/media/list2.143e2e7e12285cdac47190b8872b6f89.svg",
     "main.77847ef5.css.map": "/geo-brands/static/css/main.77847ef5.css.map",
-    "main.74dbfbb8.js.map": "/geo-brands/static/js/main.74dbfbb8.js.map",
+    "main.155fb265.js.map": "/geo-brands/static/js/main.155fb265.js.map",
     "527.13f1012d.chunk.css.map": "/geo-brands/static/css/527.13f1012d.chunk.css.map",
     "527.60142d85.chunk.js.map": "/geo-brands/static/js/527.60142d85.chunk.js.map",
     "61.cc6409a2.chunk.css.map": "/geo-brands/static/css/61.cc6409a2.chunk.css.map",
@@ -56,7 +56,7 @@
     "607.df8fcee5.chunk.css.map": "/geo-brands/static/css/607.df8fcee5.chunk.css.map",
     "607.4b5b7f10.chunk.js.map": "/geo-brands/static/js/607.4b5b7f10.chunk.js.map",
     "716.3b98cdde.chunk.css.map": "/geo-brands/static/css/716.3b98cdde.chunk.css.map",
-    "716.56fd83b1.chunk.js.map": "/geo-brands/static/js/716.56fd83b1.chunk.js.map",
+    "716.af6d3367.chunk.js.map": "/geo-brands/static/js/716.af6d3367.chunk.js.map",
     "864.4f0ad3fe.chunk.css.map": "/geo-brands/static/css/864.4f0ad3fe.chunk.css.map",
     "864.5722fb4b.chunk.js.map": "/geo-brands/static/js/864.5722fb4b.chunk.js.map",
     "420.fa4fe976.chunk.css.map": "/geo-brands/static/css/420.fa4fe976.chunk.css.map",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.77847ef5.css",
-    "static/js/main.74dbfbb8.js"
+    "static/js/main.155fb265.js"
   ]
 }
