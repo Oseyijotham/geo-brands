@@ -164,7 +164,7 @@ useEffect(() => {
                   />
                   <p className={css.catWardDescription}>
                     <span className={css.catWardDescriptionbackground}>
-                      Explore Brands by Location, Worldwide..
+                      Explore Brands by Location, Nationwide..
                     </span>
                   </p>
                 </div>
