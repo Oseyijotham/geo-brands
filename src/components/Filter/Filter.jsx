@@ -38,9 +38,7 @@ export const Filter = () => {
   };
   const bestMatches = places.filter(
     place =>
-      place.properties.addresses[0].freeform
-        .toLowerCase()
-        .includes(filterValue.trim().toLowerCase()) && filterValue.trim() !== ''
+      place.properties.addresses[0].freeform.toLowerCase().includes(filterValue.trim().toLowerCase()) && filterValue.trim() !== ''
   );
 
   const handleModalOpen = evt => {
